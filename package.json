@@ -9,7 +9,7 @@
   },
   "scripts": {
     "bootstrap": "pnpm i",
-    "dev:fe": "pnpm -F frontend dev",
+    "dev:fe": "pnpm -F teach-frontend dev",
     "dev:be": "pnpm -F backend start:dev",
     "docker:be": "pnpm -F backend docker:start",
     "build:fe": "pnpm -F frontend build",
